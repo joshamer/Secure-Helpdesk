@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Secure Helpdesk
 
-## Getting Started
+A staged portfolio project for building a secure IT help desk dashboard with Next.js, GitHub, and Vercel.
 
-First, run the development server:
+## Current Progress
+
+- Stage 1: Basic app pages
+- Stage 2: Navigation and layout
+
+## Pages
+
+- Home
+- Dashboard
+- Tickets
+- New Ticket
+- Admin
+- Security Report
+
+## Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+## Run Locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open the local URL shown in the terminal.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Roadmap
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Basic App Pages
+2. Navigation and Layout
+3. Fake Ticket Data
+4. Ticket Cards
+5. Dashboard Stats
+6. New Ticket Form
+7. Input Validation
+8. Database Setup
+9. Save Tickets to Database
+10. Authentication
+11. User Roles
+12. Permissions and Protected Routes
+13. Ticket Details Page
+14. Comments System
+15. Admin Dashboard
+16. Audit Logs
+17. Security Headers
+18. Environment Variables
+19. Security Report Page
+20. README File
+21. Deploy to Vercel
+22. Final Polish
